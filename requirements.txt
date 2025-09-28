@@ -1,0 +1,8 @@
+# requirements.txt
+# This file can be empty for the basic version of the chatbot.
+# If you are enhancing the chatbot with API, web, or database features, uncomment the lines below.
+
+# requests>=2.31.0
+# flask>=2.3.0
+# mysql-connector-python>=8.1.0
+# python-dotenv>=1.0.0
