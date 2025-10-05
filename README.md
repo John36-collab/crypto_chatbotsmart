@@ -15,9 +15,9 @@ CryptoAdvisorBot
 3. `python crypto_chatbot.py`
 
 ## Demo screenshots
-See `/screenshots/start.png` and `/screenshots/advice.png`.
+See /screenshots/ and /screenshots/
 
 ## Demo video
-Demo (30s): uploaded to Google Drive / YouTube — link: <paste your link here>
+Demo (30s): uploaded to Google Drive, link: <https://drive.google.com/file/d/1x0v4zXbzLSdV1rxGtVHigIFTsiyYd5_j/view?usp=sharing>
 
 **Disclaimer:** Not financial advice. Do your own research.
